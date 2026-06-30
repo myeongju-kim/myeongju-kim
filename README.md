@@ -36,10 +36,7 @@ Back-End / Server Developer
 - Software Maestro 13th 
 <br>
 
-### 🍿 Career
-- Daou Tech 2023. 03 ~
-<br>
 
 ### 🌮 Blog
-- 킹명주의 백엔드 일지 : https://mjoo1106.tistory.com/<br>
+- 킹명주의 개발일지 : https://mjoo1106.tistory.com/<br>
 
