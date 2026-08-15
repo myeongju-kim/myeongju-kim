@@ -78,15 +78,9 @@ but also the **development process itself**.
 ### 📝 Blog
 
 <p>
-  <a href="https://mjoo1106.tistory.com/">
-    <img
-      src="https://img.shields.io/badge/킹명주의_개발일지-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"
-      height="36"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <img src="./assets/blog-stats.svg" height="48" />
+  <a href="https://mjoo1106.tistory.com/"><img src="https://img.shields.io/badge/킹명주의_개발일지-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white" height="36" /></a>&nbsp;&nbsp;
 </p>
+<img src="./assets/blog-stats.svg" height="60" />
 
 단순 정보 전달보다는 **트러블슈팅과 개선 등 직접 겪은 경험**을 중심으로 작성하고 공유하고 있습니다.
 
